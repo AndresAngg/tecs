@@ -1,22 +1,20 @@
 const axios = require('axios')
-const API = 'https://jsonplaceholder.typicode.com/users'
+const API = 'https://my-json-server.typicode.com/AndresHelloWorld/tecs/usuarios'
 const JSON = '../json/index.json'
 function GetUsers(IDE) {
 
-    axios(JSON)
+    axios(API)
         .then(res => {
-            const persons = res.data;
+            const persons = res.data;   
             for(i=0;i<persons.length;i++){
                 if(persons[i].id == IDE){
                     console.log(
                         persons[i].id,
                         persons[i].name,
-                        persons[i].username
+                        persons[i].email
                         )
                 }
             }
-      
-
         })
 }
-GetUsers(9)
+GetUsers(2)
