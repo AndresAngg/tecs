@@ -2,13 +2,17 @@
     "usuarios": [
         {
             "id": 1,
-            "name": "Andres",
-            "email": "andres@gmail.com"
+            "name": "HTML5",
+            "url": "https://developer.mozilla.org/es/docs/HTML/HTML5",
+            "class": "icon-html5",
+            "efect": "efect efecHtml"
         },
         {
             "id": 2,
-            "name": "Juan",
-            "email": "Juan@gmail.com"
+            "name": "CSS3",
+            "url": "https://developer.mozilla.org/es/docs/Web/CSS",
+            "class": "icon-html5icon-css3",
+            "efect": "efect efecCss"
         }
     ]
 }
