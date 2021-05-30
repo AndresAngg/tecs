@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Andres Angulo",
+      "username": "Andres",
+      "email": "Andres@april.biz",
+      "phone": "3162384940",
+      "website": "anguloandre.org"
+    }
+    
+  ]
