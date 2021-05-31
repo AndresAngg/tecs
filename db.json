@@ -2,17 +2,15 @@
     "usuarios": [
         {
             "id": 1,
-            "name": "HTML5",
-            "url": "https://developer.mozilla.org/es/docs/HTML/HTML5",
-            "class": "icon-html5",
-            "efect": "efect efecHtml"
+            "name": "Pepito",
+            "email": "pepito@gmail.com",
+            "nphone": "3144859693"
         },
         {
             "id": 2,
-            "name": "CSS3",
-            "url": "https://developer.mozilla.org/es/docs/Web/CSS",
-            "class": "icon-html5icon-css3",
-            "efect": "efect efecCss"
+            "name": "Juan Garmendia",
+            "email": "juan@gmail.com",
+            "nphone": "3123849560"
         }
     ]
 }
